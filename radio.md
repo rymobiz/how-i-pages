@@ -1,6 +1,6 @@
-##How I pages
+## How I pages
 
-#... updated nanovna firmware
+# ... updated nanovna firmware
 
 1) download latest firmware from here:
 https://github.com/DiSlord/NanoVNA-D/releases
